@@ -3,9 +3,9 @@
  * This class generates an ASCII art banner for "OOPS" using dedicated methods 
  * for each letter's pattern to enhance reusability.
  */
-public class OOPSBannerApp {
+public class OOPSBannerApp6 {
 
-    // Method to generate the pattern for the letter 'O'
+    // Method to generate the pattern for the letter 'O' to console
     public static String[] getOPattern() {
         return new String[] {
             "  ***  ",
